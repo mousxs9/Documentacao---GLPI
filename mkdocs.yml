@@ -1,0 +1,13 @@
+site_name: Documentação - GLPI
+
+theme:
+  name: 'material'
+
+nav:
+  - Home: index.md
+  - Introdução: intro.md
+  - GLPI: glpi.md
+  - Mkdocs: mkdocs.md
+  - Conclusão: conclusao.md
+  
+
